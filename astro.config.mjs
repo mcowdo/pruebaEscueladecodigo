@@ -7,6 +7,9 @@ export default defineConfig({
  
   site: 'https://github.com/mcowdo/pruebaEscueladecodigo.git',
   base: 'pruebaEscueladecodigo', 
+
+
+  
  
   integrations: [tailwind()]
   
